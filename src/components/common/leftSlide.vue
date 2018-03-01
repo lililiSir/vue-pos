@@ -8,7 +8,7 @@
                 </router-link>
             </li>
             <li>
-                <router-link to="/">
+                <router-link to="/goods">
                     <i class="iconfont icon-hanbao"></i>
                     <div>商品</div>
                 </router-link>
@@ -20,7 +20,7 @@
                 </router-link>
             </li>
             <li>
-                <router-link to="/">
+                <router-link to="/accountSummary">
                     <i class="iconfont icon-wodezichan1"></i>
                     <div>金额</div>
                 </router-link>
